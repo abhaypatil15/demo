@@ -1,0 +1,78 @@
+					------Git Commands------
+	1. git config --global user.name"----"
+		Used to for username
+
+	2. git config --global user.email"----"
+		Used to for user email id
+
+	3. mkdir file-name
+		Make diratry
+
+	4. ls
+		Show all files ,folders presenr inside git repository
+
+	5. ls -a
+		Location of files & folders
+
+	6. git add
+		used to add files to the staging area. 
+
+	7. git commit
+		create a snapshot of the changes and save it to the git directory.
+
+	8. git status 
+		displays the list of changed files together with the files that are yet to be staged or committed.
+
+	9. git checkout 
+		creates branches and helps you to navigate between them.
+
+	10. git log 
+		used to show privious commits.
+
+	11. git checkout 
+		creates branches and helps you to navigate between them.
+
+	12. git master 
+		go to main commit point.
+
+	13. git branch 
+	 	list, create, or delete branches. 
+
+	14. git merge 
+		used to merge a branch into the active one.
+
+	15. git rm filename.txt
+		can be used to remove files from the index and the working directory.
+	
+	16. git show 
+		used to view information about any git object.
+
+	17.git gc
+		clean unnecessary files and optimize the local repository.
+
+	18. git rebase
+		used to apply certain changes from one branch to another. 
+
+
+	19. touch filename.extension
+		Used to create new blank files.
+
+	20. git add -A
+		Used to add all files in staging area.
+
+	21. git checkout -f
+		go to privious commit point.
+
+	22. git log -p -1
+		Show all changes.
+
+	23.git diff
+		show current changes in files.
+
+	24. git diff --staged
+		compair last commit with staging area.
+
+	25. git rm --cached filename.extension
+		remove from staging area but not delete file.
+
+	26. 	  
