@@ -75,4 +75,5 @@
 	25. git rm --cached filename.extension
 		remove from staging area but not delete file.
 
-	26. 	  
+	26.  git push origin master
+		Add changed files to pre-inserted git hub.  
